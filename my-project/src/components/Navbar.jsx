@@ -30,7 +30,7 @@ const Navbar = () => {
   );
 };
 
-// Inline styles
+
 const styles = {
   navbar: {
     marginBottom: '20px',
@@ -40,22 +40,22 @@ const styles = {
     padding: '6px 0',
   },
   spacer: {
-    flexGrow: 1, // This will take up the remaining space and push the icons to the right
+    flexGrow: 1, 
   },
   iconContainer: {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    gap: '16px', // Adjust gap between icons
-    fontSize: '24px', // Adjust icon size
+    gap: '16px',
+    fontSize: '24px', 
     marginRight: '8px',
   },
   iconLink: {
-    color: 'inherit', // Inherit text color from parent element
-    textDecoration: 'none', // Remove underline from links
+    color: 'inherit', 
+    textDecoration: 'none', 
   },
   icon: {
-    cursor: 'pointer', // Change cursor to pointer on hover
+    cursor: 'pointer', 
   },
 };
 
