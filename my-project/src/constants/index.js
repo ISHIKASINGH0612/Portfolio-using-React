@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a passionate front end developer with a strong f
 
 export const PROJECTS = [
   {
-    title: "VIGILANCE-NET: AI-Powered Security Surveillance",
+    title: "VIGILANCE-NET: AI-Powered Security Surveillance System",
     timeSpan: "June 2024 - Present",
     description: `
       • Engineered a YOLO-based system for real-time threat detection via laptop cameras, reducing false positives by 40% and enhancing security monitoring efficiency by 55%.
